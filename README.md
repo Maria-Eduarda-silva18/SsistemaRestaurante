@@ -64,3 +64,9 @@ Foram desenvolvidos testes automatizados utilizando JUnit 5 para verificar:
 ## 👩‍💻 Desenvolvimento
 
 Projeto acadêmico desenvolvido durante o programa Elas Tech, com o objetivo de praticar conceitos de programação orientada a objetos, coleções, interfaces, tratamento de exceções, padrões de projeto e testes automatizados.
+
+## 🎥 Vídeo de apresentação
+
+Assista à demonstração do projeto Sistema de Restaurante, desenvolvida durante o programa Elas Tech.
+
+[▶️ Assistir ao vídeo no LinkedIn](https://lnkd.in/p/eFEkRgqw)
